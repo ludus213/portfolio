@@ -81,6 +81,3 @@ if "%OS%"=="Windows_NT" endlocal
 
 :fail
 exit /b 1
-
-:end
-pause
